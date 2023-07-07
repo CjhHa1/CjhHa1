@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=CjhHa1&show_icons=true&count_private=true&theme=maroongold&hide=issues&line_height=30" width="350px">
   
-<img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=CjhHa1&theme=maroongold" width="350px">
+<img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=CjhHa1&theme=maroongold" width="360px">
 
 </p>
 <!--
