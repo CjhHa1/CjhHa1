@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jianghai @CjhHa1
-- 👀 I’m interested in Deep Learning and Distributed Systems. 
+- 👀 Interested in Deep Learning and Distributed Systems. 
 - 🔭 Graduated from Nankai University.
-- 🌱 I’m currently learning Auto Parallel.
-- 📈 I'm now working at HPC-AI Tech, focusing on Colossal-AI. 
+- 📈 Now working at HPC-AI Tech, focusing on Colossal-AI training and inference. 
 - 📫 Email: Cjh18671720497 [AT] outlook [DOT] com.
 
 <!---
