@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jianghai @CjhHa1
 - 👀 Interested in Deep Learning and Distributed Systems. 
 - 🔭 Graduated from Nankai University.
-- 📈 EX-engineer at HPC-AI Tech, focusing on Colossal-AI training and inference.
+- 📈 EX-engineer at HPC-AI Tech, focusing on Colossal-AI training and inference system dev.
 - 🚡 HKU 2024 Fall New Commings
 - 📫 Email: Cjh18671720497 [AT] outlook [DOT] com.
 
