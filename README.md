@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jianghai @CjhHa1
 - 👀 Interested in Deep Learning and Distributed Systems. 
-- 🔭 Graduated from Nankai University.
+- 🔭 B.Eng from Nankai University. M.S at The University of Hong Kong.
 - 📈 EX-engineer at HPC-AI Tech, focusing on Colossal-AI training and inference system dev.
-- 🚡 HKU 2024 Fall New Commings
 - 📫 Email: Cjh18671720497 [AT] outlook [DOT] com.
+- 🏺 Other links: [ZhiHu](https://www.zhihu.com/people/chen-jiang-hai-42-22)
 
 <!---
 CjhHa1/CjhHa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
