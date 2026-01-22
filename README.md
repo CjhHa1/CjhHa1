@@ -45,11 +45,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CjhHa1&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CjhHa1&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CjhHa1&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="90%"/>
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=CjhHa1&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="90%"/>
 </p>
 
 ---
