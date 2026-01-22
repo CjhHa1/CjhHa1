@@ -39,25 +39,29 @@
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CjhHa1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CjhHa1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=CjhHa1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&card_width=400" alt="GitHub Stats" height="200"/>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CjhHa1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&card_width=400" alt="Top Languages" height="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=CjhHa1&theme=radical&hide_border=true&background=0D1117&card_width=400" alt="GitHub Streak" height="200"/>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CjhHa1&theme=react-dark&hide_border=true&area=true&height=200&custom_title=Contribution%20Activity" alt="Activity Graph" height="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CjhHa1&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=CjhHa1&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="90%"/>
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CjhHa1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=CjhHa1&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="95%"/>
 </p>
 
 ---
