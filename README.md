@@ -60,11 +60,11 @@
   </table>
 </div>
 
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=CjhHa1&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="95%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </p>
-
 
 <!---
 CjhHa1/CjhHa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
