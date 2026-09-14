@@ -1,0 +1,47 @@
+name: Update profile statistics
+
+on:
+  schedule:
+    # Daily at 08:23 China Standard Time (00:23 UTC).
+    - cron: '23 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate_stats.py
+      - tests/test_generate_stats.py
+      - .github/workflows/profile-stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Test generator
+        run: python3 -m unittest discover -s tests -v
+      - name: Generate public statistics
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/generate_stats.py --username CjhHa1
+      - name: Commit updated cards
+        run: |
+          git add assets/stats-*.svg assets/languages-*.svg assets/profile-data.json
+          if git diff --cached --quiet; then
+            echo "Statistics are already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile statistics"
+          git pull --rebase
+          git push
