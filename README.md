@@ -52,12 +52,12 @@ I'm interested in the intersection of **deep learning** and **distributed system
     <img src="assets/stats-light.svg" width="480" alt="GitHub overview: public repositories, stars earned, followers, and public pull requests authored" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
-    <img src="assets/languages-light.svg" width="480" alt="Primary language distribution across owned public repositories, excluding forks" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg" />
+    <img src="assets/contributions-light.svg" width="480" alt="Open source contributions: merged public PRs, external projects, and top contributed repositories" />
   </picture>
 </p>
 
-<sub>Updated daily with GitHub Actions. Stars exclude forks; languages are counted by repository, not lines of code. [Data & setup](scripts/README.md).</sub>
+<sub>Updated daily with GitHub Actions. Stars exclude forks; contributions count merged public PRs in external repositories. [Contributed projects](assets/contributions.md). [Data & setup](scripts/README.md).</sub>
 
 ## On GitHub
 

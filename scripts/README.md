@@ -8,9 +8,11 @@ The workflow generates four self-contained SVG cards in `assets/` and a public-d
 - **Stars earned:** stars on owned public non-fork repositories.
 - **Followers:** the public follower count.
 - **Public PRs authored:** all public pull requests authored by the user, across repositories and states, from GitHub issue search.
-- **Languages:** each owned public non-fork repository contributes one count for its GitHub-detected primary language. Repositories without a detected language are excluded. This is repository distribution, not code volume or proficiency. If necessary, smaller categories are grouped as Other.
+- **Open source contributions:** all-time merged public PRs authored by the user in repositories owned by other accounts. Counts distinct projects and lists the top five by merged PR count, breaking ties alphabetically. Own repositories are excluded case-insensitively; organization-owned repositories are included.
+- **Project links:** `assets/contributions.md` links every contributed project and its matching merged PRs. It updates alongside the cards.
 
-Archived repositories are included. Private repositories and private contributions are excluded. API requests paginate owned repositories; incomplete PR search results fail the run instead of publishing a misleading count.
+Archived repositories are included. Private repositories and private contributions are excluded. Both repository and contribution searches paginate. Incomplete results, inconsistent pages, or GitHub's 1,000-result search cap fail the run instead of publishing partial counts. If contributions exceed that cap, the query must be partitioned before updating again.
+
 
 ## Automatic updates
 

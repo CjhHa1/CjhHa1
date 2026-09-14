@@ -6,9 +6,11 @@
   "stars": 7,
   "followers": 31,
   "pull_requests": 189,
-  "languages": {
-    "Python": 4,
-    "Go": 1,
-    "Rust": 1
+  "contributions": {
+    "hpcaitech/ColossalAI": 74,
+    "Tencent-Hunyuan/UniRL": 48,
+    "hpcaitech/public_assets": 6,
+    "PaddlePaddle/Paddle": 6,
+    "tiandiao123/vllm": 1
   }
 }
