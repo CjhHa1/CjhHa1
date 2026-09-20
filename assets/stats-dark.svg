@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300" role="img" aria-labelledby="title desc">
 <title id="title">GitHub overview</title>
-<desc id="desc">Public repos: 40; Stars earned: 7; Followers: 33; Public PRs authored: 194</desc>
+<desc id="desc">Public repos: 40; Stars earned: 7; Followers: 33; Public PRs authored: 196</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif;fill:#e6edf3}.heading{font-size:20px;font-weight:700}.body{font-size:13px;fill:#9da7b3}.value{font-size:27px;font-weight:700}.small{font-size:11px;fill:#9da7b3}</style>
 <rect x=".5" y=".5" width="479" height="299" rx="16" fill="#0d1117" stroke="#30363d"/>
 <text x="24" y="38" class="heading">GitHub overview</text>
-<text x="24" y="61" class="body">@CjhHa1</text><text x="24" y="108" class="value">40</text><text x="24" y="130" class="body">Public repos</text><text x="252" y="108" class="value">7</text><text x="252" y="130" class="body">Stars earned</text><text x="24" y="187" class="value">33</text><text x="24" y="209" class="body">Followers</text><text x="252" y="187" class="value">194</text><text x="252" y="209" class="body">Public PRs authored</text><text x="24" y="244" class="small">Stars count owned public repositories, excluding forks.</text>
-<text x="24" y="279" class="small">Updated 2026-09-19 UTC · Public GitHub data</text>
+<text x="24" y="61" class="body">@CjhHa1</text><text x="24" y="108" class="value">40</text><text x="24" y="130" class="body">Public repos</text><text x="252" y="108" class="value">7</text><text x="252" y="130" class="body">Stars earned</text><text x="24" y="187" class="value">33</text><text x="24" y="209" class="body">Followers</text><text x="252" y="187" class="value">196</text><text x="252" y="209" class="body">Public PRs authored</text><text x="24" y="244" class="small">Stars count owned public repositories, excluding forks.</text>
+<text x="24" y="279" class="small">Updated 2026-09-20 UTC · Public GitHub data</text>
 </svg>
