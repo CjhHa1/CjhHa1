@@ -1,16 +1,17 @@
 {
   "username": "CjhHa1",
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "public_repos": 42,
   "original_repos": 8,
   "stars": 7,
-  "followers": 34,
-  "pull_requests": 201,
+  "followers": 35,
+  "pull_requests": 202,
   "contributions": {
     "hpcaitech/ColossalAI": 74,
     "Tencent-Hunyuan/UniRL": 59,
     "hpcaitech/public_assets": 6,
     "PaddlePaddle/Paddle": 6,
+    "sgl-project/sglang": 1,
     "tiandiao123/vllm": 1
   }
 }
