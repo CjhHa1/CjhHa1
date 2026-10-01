@@ -1,11 +1,11 @@
 # Open source contributions
 
-Updated 2026-09-30 UTC. Merged public PRs authored by @CjhHa1, excluding their own repositories.
+Updated 2026-10-01 UTC. Merged public PRs authored by @CjhHa1, excluding their own repositories.
 
 | Project | Merged PRs |
 | --- | ---: |
 | [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) | [74](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3Ahpcaitech%2FColossalAI) |
-| [Tencent-Hunyuan/UniRL](https://github.com/Tencent-Hunyuan/UniRL) | [60](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3ATencent-Hunyuan%2FUniRL) |
+| [Tencent-Hunyuan/UniRL](https://github.com/Tencent-Hunyuan/UniRL) | [62](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3ATencent-Hunyuan%2FUniRL) |
 | [hpcaitech/public\_assets](https://github.com/hpcaitech/public_assets) | [6](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3Ahpcaitech%2Fpublic_assets) |
 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | [6](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3APaddlePaddle%2FPaddle) |
 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | [3](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3Asgl-project%2Fsglang) |
