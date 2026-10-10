@@ -1,6 +1,6 @@
 # Open source contributions
 
-Updated 2026-10-09 UTC. Merged public PRs authored by @CjhHa1, excluding their own repositories.
+Updated 2026-10-10 UTC. Merged public PRs authored by @CjhHa1, excluding their own repositories.
 
 | Project | Merged PRs |
 | --- | ---: |
@@ -9,4 +9,5 @@ Updated 2026-10-09 UTC. Merged public PRs authored by @CjhHa1, excluding their o
 | [hpcaitech/public\_assets](https://github.com/hpcaitech/public_assets) | [6](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3Ahpcaitech%2Fpublic_assets) |
 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | [6](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3APaddlePaddle%2FPaddle) |
 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | [3](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3Asgl-project%2Fsglang) |
+| [haonan3/UniRLReport](https://github.com/haonan3/UniRLReport) | [1](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3Ahaonan3%2FUniRLReport) |
 | [tiandiao123/vllm](https://github.com/tiandiao123/vllm) | [1](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3Atiandiao123%2Fvllm) |
