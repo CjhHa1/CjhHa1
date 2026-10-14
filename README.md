@@ -11,6 +11,8 @@
 <p align="center">
   <a href="mailto:Cjh18671720497@outlook.com">Email</a>
   &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jianghai-chen-879620281/">LinkedIn</a>
+  &nbsp;·&nbsp;
   <a href="https://www.zhihu.com/people/chen-jiang-hai-42-22">Zhihu</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/CjhHa1?tab=repositories">Repositories</a>
