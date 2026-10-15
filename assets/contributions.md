@@ -1,11 +1,11 @@
 # Open source contributions
 
-Updated 2026-10-14 UTC. Merged public PRs authored by @CjhHa1, excluding their own repositories.
+Updated 2026-10-15 UTC. Merged public PRs authored by @CjhHa1, excluding their own repositories.
 
 | Project | Merged PRs |
 | --- | ---: |
+| [Tencent-Hunyuan/UniRL](https://github.com/Tencent-Hunyuan/UniRL) | [75](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3ATencent-Hunyuan%2FUniRL) |
 | [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) | [74](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3Ahpcaitech%2FColossalAI) |
-| [Tencent-Hunyuan/UniRL](https://github.com/Tencent-Hunyuan/UniRL) | [72](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3ATencent-Hunyuan%2FUniRL) |
 | [haonan3/UniRLReport](https://github.com/haonan3/UniRLReport) | [7](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3Ahaonan3%2FUniRLReport) |
 | [hpcaitech/public\_assets](https://github.com/hpcaitech/public_assets) | [6](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3Ahpcaitech%2Fpublic_assets) |
 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | [6](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACjhHa1+repo%3APaddlePaddle%2FPaddle) |
